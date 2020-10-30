@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "black-hole-stream": "~0.0.1",
-    "busboy": "OPSWAT/busboy",
+    "busboy": "OPSWAT/busboy#5ef3f9b1d08e7ccb7c9b3690e4c071089e66285c",
     "chan": "^0.6.1"
   },
   "devDependencies": {
